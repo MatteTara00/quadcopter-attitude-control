@@ -10,7 +10,7 @@ The workflow spans the full development pipeline: nonlinear modeling, simulation
 ## Contributions
 
 - Nonlinear modeling of quadcopter dynamics (simplified and high-fidelity models)  
-- Design and implementation of control strategies for attitude stabilization (including LQR, PID, and nonlinear approaches)  
+- Design and implementation of control strategies for attitude stabilization and trajectory tracking (including LQR, PID, and nonlinear approaches)  
 - Development of state estimation algorithms based on Extended Kalman Filter (EKF)  
 - Integration of control algorithms in Simulink and preparation for real-time deployment on PX4  
 
@@ -80,10 +80,10 @@ The project follows a structured development pipeline:
 
 ## Usage
 
-1. Navigate to the desired controller folder  
-2. Run `init_control.m`  
-3. Open the corresponding Simulink model  
-4. Choose simulation or real-system configuration  
+1. Choose simulation or real-system configuration 
+2. Navigate to the desired controller folder  
+3. Run `init_control.m`  
+4. Open the corresponding Simulink model   
 
 ---
 

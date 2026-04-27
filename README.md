@@ -1,7 +1,7 @@
 # Quadcopter Attitude Control
 
 ## Overview
-This project focuses on the modeling, control, and validation of a quadcopter UAV, including both simulation and real-world implementation. Multiple control strategies are developed and evaluated for attitude stabilization and trajectory tracking under realistic conditions.
+This university project focuses on the modeling, control, and validation of a quadcopter UAV, including both simulation and real-world implementation. Multiple control strategies are developed and evaluated for attitude stabilization and trajectory tracking under realistic conditions.
 
 The workflow spans the full development pipeline: nonlinear modeling, simulation with noise characterization, and deployment on a PX4-based flight controller via Simulink Coder.
 
